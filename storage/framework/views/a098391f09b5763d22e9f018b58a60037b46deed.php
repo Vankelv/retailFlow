@@ -14,19 +14,16 @@
 
 </head>
 <body>
-    <div class="container">
-    <div class="background">
+<div class="background">
     <div class="container-progress container">
         <div class="row text-center section-setup">
             <div class="col-12">
-                <h1>Nextline Setup</h1>
+                <h1>Stocky Setup</h1>
             </div>
         </div>
         <?php echo $__env->yieldContent('content'); ?>
     </div>
 </div>
-    </div>
-
 
 
 <script src="/assets_setup/js/jquery.min.js"></script>
